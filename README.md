@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on various Projects for Customers.
 
+- 👨🏻‍💻 Qualifications: M. Sc. Computer Science - EXIN Certified DevOps Master - Microsoft Certified Azure Architect (AZ-303)
+
 - 💬 Let's talk about **How AI Integrations will change the way we work in IT.**
 
 - 📫 How to reach me [linkedin.com/in/pascal-hoehnel](https://linkedin.com/in/pascal-hoehnel)
