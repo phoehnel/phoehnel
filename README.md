@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pascal</h1>
 <h3 align="center">A passionate DevOps from Germany with focus on Python, Cloud, AI & Automation.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=phoehnel" alt="phoehnel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=phoehnel" alt="phoehnel" /></a> </p>
 
 - 🔭 I’m currently working on various Projects for Customers.
 
